@@ -18,8 +18,8 @@
 ### **КОРИСНІ ПОСИЛАННЯ**
 - ### [**KeyBoard Shortcuts for Data Scientists**](Shortcuts_DS_2020.pdf)
 - ### [**PYTHON 3**](https://python-scripts.com/)
--### Графічний вивід **matpltlib** [*DOCS*](https://matplotlib.org/)
--### Математичні обчислення **numpy / scipy** [*DOCS*](https://www.scipy.org/)
+- ### Графічний вивід **matpltlib** [*DOCS*](https://matplotlib.org/)
+- ### Математичні обчислення **numpy / scipy** [*DOCS*](https://www.scipy.org/)
 
 
 ### ADDITIONAL
