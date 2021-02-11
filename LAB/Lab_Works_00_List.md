@@ -1,19 +1,18 @@
-## [ЛАБОРАТОРНА РОБОТА №01.](/Lab_Works/Lab_01/Lab_Works_01_Descript.md) PYTHON. Вступ. While, For, If.
-## [ЛАБОРАТОРНА РОБОТА №02.](/Lab_Works/Lab_02/Lab_Works_02_Descript.md) PYTHON. Функції
-## [ЛАБОРАТОРНА РОБОТА №03.](/Lab_Works/Lab_03/Lab_Works_03_Descript.md) PYTHON. Структури: Рядки, списки
-## [ЛАБОРАТОРНА РОБОТА №04.](/Lab_Works/Lab_04/Lab_Works_04_Descript.md) PYTHON. Структури: Кортежі, словники
-## [ЛАБОРАТОРНА РОБОТА №05.](/Lab_Works/Lab_05/Lab_Works_05_Descript.md) PYTHON. Робота з файлами
-## [ЛАБОРАТОРНА РОБОТА №06.](/Lab_Works/Lab_06/Lab_Works_06_Descript.md) PYTHON. Рекурсивні функції.
-## [ЛАБОРАТОРНА РОБОТА №07.](/Lab_Works/Lab_07/Lab_Works_07_Descript.md) PYTHON. Модулі, пакети.
-## [ЛАБОРАТОРНА РОБОТА №08.](/Lab_Works/Lab_08/Lab_Works_08_Descript.md) PYTHON. Класи 1
-## [ЛАБОРАТОРНА РОБОТА №09.](/Lab_Works/Lab_09/Lab_Works_09_Descript.md) PYTHON. Класи 2.
-## [ЛАБОРАТОРНА РОБОТА №10.](/Lab_Works/Lab_10/Lab_Works_10_Descript.md)  NumPy
-## [ЛАБОРАТОРНА РОБОТА №11.](/Lab_Works/Lab_11/Lab_Works_11_Descript.md) MatPlotLib 2D
-## [ЛАБОРАТОРНА РОБОТА №12.](/Lab_Works/Lab_12/Lab_Works_12_Descript.md) MatPlotLib 3D
+## [ЛАБОРАТОРНА РОБОТА №01.](/LAB/Lab_01/Lab_Works_01_Descript.md) PYTHON. Вступ. While, For, If.
+## [ЛАБОРАТОРНА РОБОТА №02.](/LAB/Lab_02/Lab_Works_02_Descript.md) PYTHON. Функції
+## [ЛАБОРАТОРНА РОБОТА №03.](/LAB/Lab_03/Lab_Works_03_Descript.md) PYTHON. Структури: Рядки, списки
+## [ЛАБОРАТОРНА РОБОТА №04.](/LAB/Lab_04/Lab_Works_04_Descript.md) PYTHON. Структури: Кортежі, словники
+## [ЛАБОРАТОРНА РОБОТА №05.](/LAB/Lab_05/Lab_Works_05_Descript.md) PYTHON. Робота з файлами
+## [ЛАБОРАТОРНА РОБОТА №06.](/LAB/Lab_06/Lab_Works_06_Descript.md) PYTHON. Рекурсивні функції.
+## [ЛАБОРАТОРНА РОБОТА №07.](/LAB/Lab_07/Lab_Works_07_Descript.md) PYTHON. Модулі, пакети.
+## [ЛАБОРАТОРНА РОБОТА №08.](/LAB/Lab_08/Lab_Works_08_Descript.md) PYTHON. Класи 1
+## [ЛАБОРАТОРНА РОБОТА №09.](/LAB/Lab_09/Lab_Works_09_Descript.md) PYTHON. Класи 2.
+## [ЛАБОРАТОРНА РОБОТА №10.](/LAB/Lab_10/Lab_Works_10_Descript.md)  NumPy
+## [ЛАБОРАТОРНА РОБОТА №11.](/LAB/Lab_11/Lab_Works_11_Descript.md) MatPlotLib 2D
+## [ЛАБОРАТОРНА РОБОТА №12.](/LAB/Lab_12/Lab_Works_12_Descript.md) MatPlotLib 3D
 
 ЛАБОРАТОРНА РОБОТА №13. Локальна розробка програм: Git, GitHub  
-ЛАБОРАТОРНА РОБОТА №14.
-Елементи колективної роботи: Git, GitHub  
+ЛАБОРАТОРНА РОБОТА №14. Елементи колективної роботи: Git, GitHub  
 ЛАБОРАТОРНА РОБОТА №15. Software Ideas Modeler: побудова діаграми класів  
 ЛАБОРАТОРНА РОБОТА №16. Software Ideas Modeler: генерація кодів  
 
